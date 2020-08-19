@@ -3,7 +3,7 @@ and I am a software developer from Zagreb, Croatia.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vjekooo)](https://github.com/vjekooo/github-readme-stats)
 
-Skills: REACT / JS / NODE / GRAPHQL / POSTGRESQL
+Skills: REACT / JS / TYPESCRIPT / NODE / GRAPHQL / POSTGRESQL
 
 - 🔭 I’m currently working on a podcasting service
 - 🌱 I’m currently learning Devops and Rust
