@@ -9,5 +9,4 @@ Skills: REACT / JS / NODE / GRAPHQL / POSTGRESQL
 - 🌱 I’m currently learning Devops and Rust
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about the weather
-- ⚡ Fun fact: Wearing a mask does not suffocate you, you are just being a retard
--->
+- ⚡ Fun fact: Wearing a mask does not suffocate you, you are just being a dick
