@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Vjeko
-and I am a software developer from Zagreb, Croatia.
+and I am a software developer from Zagreb, Croatia and no, that is not a real mustache.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vjekooo)](https://github.com/vjekooo/github-readme-stats)
 
