@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Vjeko
 and I am a software developer from Zagreb, Croatia and no, that is not a real mustache.
 
-Skills: REACT / JS / TYPESCRIPT / NODE / GRAPHQL / POSTGRESQL
+Skills: REACT / NEXT JS / TYPESCRIPT / NODE / GRAPHQL / POSTGRESQL
 
 - 🔭 I’m currently working on a podcasting service
 - 🌱 I’m currently learning Devops and Rust
