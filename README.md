@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Vjeko
-and I am a software developer from Zagreb, Croatia and no, that is not a real mustache.
+and I am a software developer from Zagreb, Croatia.
 
 Skills: REACT / NEXT JS / TYPESCRIPT / NODE / GRAPHQL / POSTGRESQL
 
