@@ -5,8 +5,8 @@ and I am a software developer from Zagreb, Croatia.
 - 🔭 I’m working as a JS developer.
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on Redis client
-- ⚡ Fun fact: Banging your head against the wall for one hour burns 150 calories
-- :mailbox: [LinkedIn](https://www.linkedin.com/in/vjekoslav-pavi%C4%8Din-265247129/)
+- :mailbox: [LinkedIn](https://www.linkedin.com/in/vjekoslav-pavi%C4%8Din-265247129/), [mail](mailto:vjeko.pavicin@gmail.com)
+- - ⚡ Fun fact: Banging your head against the wall for one hour burns 150 calories
 
 ### :hammer_and_wrench: Languages and Tools :
 
