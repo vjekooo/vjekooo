@@ -25,7 +25,3 @@ and I am a software developer from Zagreb, Croatia.
   <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">&nbsp;	
 </div>
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vjekooo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
